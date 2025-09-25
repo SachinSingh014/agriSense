@@ -34,8 +34,9 @@ API_KEY = "feed_the_world_Q8GVdHWFV-mZzzWM1_jNDqU_Us-ZVL93EufRyAXQeso"
 DEEPLEAF_URL = "https://api.deepleaf.io/analyze"
 
 # Kindwise API Configuration for Crop Disease Detection
-KINDWISE_API_KEY = "F2ffXDannBDAtNMEI4iDYluLT1lVLQF5D3B8VzftGlOUgDkW3u"
+KINDWISE_API_KEY = "eOZ31RMpJpMLy6HaB7wDRTugaAq5rtfI4hSaHhgpkVv2RWrXcI"
 KINDWISE_API_BASE = "https://crop.kindwise.com/api/v1"
+
 
 # Create upload directory if it doesn't exist
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
